@@ -1,6 +1,3 @@
-import sys
-
-
 def silly_age_joke():
     age = int(input('How old are you? '))
     if age >= 10 and age <= 13:
